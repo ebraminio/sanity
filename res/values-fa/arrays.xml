@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="bt_reverse_timeout_labels">
+		<item>۵ ثانیه</item>
+		<item>۱۰ ثانیه</item>
+		<item>۲۰ ثانیه</item>
+		<item>۳۰ ثانیه</item>
+		<item>۱ دقیقه</item>
+		<item>۲ دقیقه</item>
+		<item>۳ دقیقه</item>
+		<item>۴ دقیقه</item>
+		<item>۵ دقیقه</item>
+		<item>وقتی مکالمه قطع می‌شود خاموش شو</item>
+	</string-array>
+	<string-array name="bt_reverse_timeout_values">
+		<item>۵۰۰۰</item>
+		<item>۱۰۰۰۰</item>
+		<item>۲۰۰۰۰</item>
+		<item>۳۰۰۰۰</item>
+		<item>۶۰۰۰۰</item>
+		<item>۱۲۰۰۰۰</item>
+		<item>۱۸۰۰۰۰</item>
+		<item>۲۴۰۰۰۰</item>
+		<item>۳۰۰۰۰۰</item>
+		<item>۰</item>
+	</string-array>
+
+	<string-array name="disable_delay_labels">
+		<item>فوری</item>
+		<item>۱ ثانیه</item>
+		<item>۲ ثانیه</item>
+		<item>۳ ثانیه</item>
+		<item>۴ ثانیه</item>
+		<item>۵ ثانیه</item>
+		<item>۶ ثانیه</item>
+		<item>۷ ثانیه</item>
+		<item>۸ ثانیه</item>
+		<item>۹ ثانیه</item>
+		<item>۱۰ ثانیه</item>
+		<item>۱۵ ثانیه</item>
+		<item>۲۰ ثانیه</item>
+		<item>۲۵ ثانیه</item>
+		<item>۳۰ ثانیه</item>
+	</string-array>
+	<string-array name="disable_delay_values">
+		<item>۰</item>
+		<item>۱۰۰۰</item>
+		<item>۲۰۰۰</item>
+		<item>۳۰۰۰</item>
+		<item>۴۰۰۰</item>
+		<item>۵۰۰۰</item>
+		<item>۶۰۰۰</item>
+		<item>۷۰۰۰</item>
+		<item>۸۰۰۰</item>
+		<item>۹۰۰۰</item>
+		<item>۱۰۰۰۰</item>
+		<item>۱۵۰۰۰</item>
+		<item>۲۰۰۰۰</item>
+		<item>۲۵۰۰۰</item>
+		<item>۳۰۰۰۰</item>
+	</string-array>
+
+	<string-array name="enable_delay_labels">
+		<item>مشابه «متوقف‌کردن تأخیر»</item>
+		<item>فوری</item>
+		<item>۱ ثانیه</item>
+		<item>۲ ثانیه</item>
+		<item>۳ ثانیه</item>
+		<item>۴ ثانیه</item>
+		<item>۵ ثانیه</item>
+		<item>۶ ثانیه</item>
+		<item>۷ ثانیه</item>
+		<item>۸ ثانیه</item>
+		<item>۹ ثانیه</item>
+		<item>۱۰ ثانیه</item>
+		<item>۱۵ ثانیه</item>
+		<item>۲۰ ثانیه</item>
+		<item>۲۵ ثانیه</item>
+		<item>۳۰ ثانیه</item>
+	</string-array>
+	<string-array name="enable_delay_values">
+		<item>-۱</item>
+		<item>۰</item>
+		<item>۱۰۰۰</item>
+		<item>۲۰۰۰</item>
+		<item>۳۰۰۰</item>
+		<item>۴۰۰۰</item>
+		<item>۵۰۰۰</item>
+		<item>۶۰۰۰</item>
+		<item>۷۰۰۰</item>
+		<item>۸۰۰۰</item>
+		<item>۹۰۰۰</item>
+		<item>۱۰۰۰۰</item>
+		<item>۱۵۰۰۰</item>
+		<item>۲۰۰۰۰</item>
+		<item>۲۵۰۰۰</item>
+		<item>۳۰۰۰۰</item>
+	</string-array>
+
+	<string-array name="speaker_call_labels">
+		<item>هیچ‌گاه</item>
+		<item>فقط تماس‌های وارده</item>
+		<item>فقط تماس‌های به بیرون</item>
+		<item>همیشه</item>
+	</string-array>
+	<string-array name="speaker_call_values">
+		<item>۰</item>
+		<item>۱</item>
+		<item>۲</item>
+		<item>۳</item>
+	</string-array>
+
+	<string-array name="speaker_count_labels">
+		<item>هیچ‌گاه</item>
+		<item>۱ مرتبه</item>
+		<item>۲ مرتبه</item>
+		<item>۳ مرتبه</item>
+		<item>۴ مرتبه</item>
+		<item>۵ مرتبه</item>
+		<item>۶ مرتبه</item>
+		<item>۷ مرتبه</item>
+		<item>۸ مرتبه</item>
+		<item>۹ مرتبه</item>
+		<item>۱۰ مرتبه</item>
+		<item>۱۵ مرتبه</item>
+		<item>۲۰ مرتبه</item>
+		<item>بی‌نهایت</item>
+	</string-array>
+	<string-array name="speaker_count_values">
+		<item>-۱</item>
+		<item>۱</item>
+		<item>۲</item>
+		<item>۳</item>
+		<item>۴</item>
+		<item>۵</item>
+		<item>۶</item>
+		<item>۷</item>
+		<item>۸</item>
+		<item>۹</item>
+		<item>۱۰</item>
+		<item>۱۵</item>
+		<item>۲۰</item>
+		<item>۰</item>
+	</string-array>
+
+	<string-array name="rec_src_labels">
+		<item>میکروفن</item>
+		<item>تماس تلفنی</item>
+		<item>تشخیص صدا</item>
+		<item>صدای دوربین</item>
+	</string-array>
+	<string-array name="rec_src_values">
+		<item>۱</item>
+		<item>۴</item>
+		<item>۶</item>
+		<item>۵</item>
+	</string-array>
+
+	<string-array name="rec_fmt_labels">
+		<item>MPEG4</item>
+		<item>3GPP</item>
+		<item>AMR</item>
+	</string-array>
+	<string-array name="rec_fmt_values">
+		<item>۲</item>
+		<item>۱</item>
+		<item>۳</item>
+	</string-array>
+
+	<string-array name="rec_stop_limit_labels">
+		<item>۱ دقیقه</item>
+		<item>۲ دقیقه</item>
+		<item>۳ دقیقه</item>
+		<item>۵ دقیقه</item>
+		<item>۱۰ دقیقه</item>
+		<item>۱۵ دقیقه</item>
+		<item>۲۰ دقیقه</item>
+		<item>۳۰ دقیقه</item>
+		<item>۴۵ دقیقه</item>
+		<item>۱ ساعت</item>
+		<item>۱ ساعت و نیم</item>
+		<item>۲ ساعت</item>
+		<item>بی‌نهایت</item>
+	</string-array>
+	<string-array name="rec_stop_limit_values">
+		<item>۱</item>
+		<item>۲</item>
+		<item>۳</item>
+		<item>۵</item>
+		<item>۱۰</item>
+		<item>۱۵</item>
+		<item>۲۰</item>
+		<item>۳۰</item>
+		<item>۴۵</item>
+		<item>۶۰</item>
+		<item>۹۰</item>
+		<item>۱۲۰</item>
+		<item>۰</item>
+	</string-array>
+
+	<string-array name="rec_start_dir_labels">
+		<item>همه</item>
+		<item>فقط تماس‌های وارده</item>
+		<item>فقط تماس‌های به بیرون</item>
+	</string-array>
+	<string-array name="rec_start_dir_values">
+		<item>۰</item>
+		<item>۱</item>
+		<item>۲</item>
+	</string-array>
+
+	<string-array name="rec_start_times_labels">
+		<item>۱ مرتبه</item>
+		<item>۲ مرتبه</item>
+		<item>۳ مرتبه</item>
+		<item>۴ مرتبه</item>
+		<item>۵ مرتبه</item>
+		<item>۶ مرتبه</item>
+		<item>۷ مرتبه</item>
+		<item>۸ مرتبه</item>
+		<item>بی‌نهایت</item>
+	</string-array>
+	<string-array name="rec_start_times_values">
+		<item>۱</item>
+		<item>۲</item>
+		<item>۳</item>
+		<item>۴</item>
+		<item>۵</item>
+		<item>۶</item>
+		<item>۷</item>
+		<item>۸</item>
+		<item>۰</item>
+	</string-array>
+
+	<string-array name="rec_start_headset_labels">
+		<item>اهمیتی ندارد</item>
+    <item>شروع شو اگر هدست‌ها متصل شده‌اند</item>
+    <item>شروع شو اگر هدست‌ها متصل نشده‌اند</item>
+	</string-array>
+	<string-array name="rec_stop_headset_labels">
+		<item>اهمیتی ندارد</item>
+    <item>شروع شو اگر هدست‌ها متصل شده‌اند</item>
+    <item>شروع شو اگر هدست‌ها متصل نشده‌اند</item>
+	</string-array>
+	<string-array name="rec_headset_values">
+		<item>۰</item>
+		<item>۱</item>
+		<item>۲</item>
+	</string-array>
+	
+	<string-array name="rec_autoremove_labels">
+		<item>حذف نکن</item>
+		<item>۱ روز</item>
+		<item>۲ روز</item>
+		<item>۳ روز</item>
+		<item>۷ روز</item>
+		<item>۱۴ روز</item>
+		<item>۳۰ روز</item>
+		<item>۶۰ روز</item>
+		<item>۹۰ روز</item>
+	</string-array>
+	<string-array name="rec_autoremove_values">
+		<item>۰</item>
+		<item>۱</item>
+		<item>۲</item>
+		<item>۳</item>
+		<item>۷</item>
+		<item>۱۴</item>
+		<item>۳۰</item>
+		<item>۶۰</item>
+		<item>۹۰</item>
+	</string-array>
+
+	<string-array name="filter_mode_labels">
+		<item>شامل‌شدن فهرست، شامل‌نشدن همهٔ سایر شماره‌ها</item>
+		<item>شامل‌نشدن فهرست، شامل‌شدن همهٔ سایر شماره‌ها</item>
+	</string-array>
+	<string-array name="filter_mode_values">
+		<item>۰</item>
+		<item>۱</item>
+	</string-array>
+
+	<string-array name="tts_tone_labels">
+		<item>اهمیتی ندارد</item>
+		<item>بالاتر</item>
+		<item>بالا</item>
+		<item>متوسط</item>
+		<item>پایین</item>
+		<item>پایین‌تر</item>
+	</string-array>
+	<string-array name="tts_tone_values">
+		<item>۰</item>
+		<item>۲۰۰</item>
+		<item>۱۵۰</item>
+		<item>۱۰۰</item>
+		<item>۷۵</item>
+		<item>۵۰</item>
+	</string-array>
+
+	<string-array name="tts_repeat_labels">
+		<item>۱ مرتبه</item>
+		<item>۲ مرتبه</item>
+		<item>۳ مرتبه</item>
+		<item>۴ مرتبه</item>
+		<item>۵ مرتبه</item>
+		<item>۶ مرتبه</item>
+		<item>۷ مرتبه</item>
+		<item>۸ مرتبه</item>
+		<item>۹ مرتبه</item>
+		<item>۱۰ مرتبه</item>
+		<item>همیشه</item>
+	</string-array>
+	<string-array name="tts_repeat_values">
+		<item>۱</item>
+		<item>۲</item>
+		<item>۳</item>
+		<item>۴</item>
+		<item>۵</item>
+		<item>۶</item>
+		<item>۷</item>
+		<item>۸</item>
+		<item>۹</item>
+		<item>۱۰</item>
+		<item>۱۰۰۰</item>
+	</string-array>
+
+	<string-array name="tts_pause_labels">
+		<item>کوتاه‌تر</item>
+		<item>کوتاه</item>
+		<item>متوسط</item>
+		<item>بلند</item>
+		<item>بلندتر</item>
+	</string-array>
+	<string-array name="tts_pause_values">
+		<item>۲۰۰</item>
+		<item>۵۰۰</item>
+		<item>۱۰۰۰</item>
+		<item>۱۵۰۰</item>
+		<item>۲۰۰۰</item>
+	</string-array>
+
+	<string-array name="block_mode_labels">
+		<item>خاتمهٔ مکالمه</item>
+		<item>توقف سیگنال</item>
+		<item>پاسخ بی‌صدا</item>
+		<item>آهنگ گوشی حالت بی‌صدا</item>
+	</string-array>
+	<string-array name="block_mode_values">
+		<item>۰</item>
+		<item>۱</item>
+		<item>۳</item>
+		<item>۲</item>
+	</string-array>
+
+	<string-array name="block_resume_labels">
+		<item>فوری</item>
+		<item>۳۰ ثانیه</item>
+		<item>۱ دقیقه</item>
+		<item>۲ دقیقه</item>
+		<item>۳ دقیقه</item>
+		<item>۴ دقیقه</item>
+		<item>۵ دقیقه</item>
+		<item>۱۰ دقیقه</item>
+		<item>۱۵ دقیقه</item>
+		<item>۲۰ دقیقه</item>
+		<item>۳۰ دقیقه</item>
+		<item>۶۰ دقیقه</item>
+	</string-array>
+	<string-array name="block_resume_values">
+		<item>۰</item>
+		<item>۳۰۰۰۰</item>
+		<item>۶۰۰۰۰</item>
+		<item>۱۲۰۰۰۰</item>
+		<item>۱۸۰۰۰۰</item>
+		<item>۲۴۰۰۰۰</item>
+		<item>۳۰۰۰۰۰</item>
+		<item>۶۰۰۰۰۰</item>
+		<item>۹۰۰۰۰۰</item>
+		<item>۱۲۰۰۰۰۰</item>
+		<item>۱۸۰۰۰۰۰</item>
+		<item>۳۶۰۰۰۰۰</item>
+	</string-array>
+
+	<string-array name="blocksms_max_labels">
+		<item>هیچ</item>
+		<item>۱۰</item>
+		<item>۵۰</item>
+		<item>۱۰۰</item>
+		<item>۲۰۰</item>
+		<item>۳۰۰</item>
+		<item>۴۰۰</item>
+		<item>۵۰۰</item>
+		<item>۱۰۰۰</item>
+		<item>بی‌نهایت</item>
+	</string-array>
+	<string-array name="blocksms_max_values">
+		<item>۰</item>
+		<item>۱۰</item>
+		<item>۵۰</item>
+		<item>۱۰۰</item>
+		<item>۲۰۰</item>
+		<item>۳۰۰</item>
+		<item>۴۰۰</item>
+		<item>۵۰۰</item>
+		<item>۱۰۰۰</item>
+		<item>-۱</item>
+	</string-array>
+
+	<string-array name="urgent_mode_labels">
+		<item>فقط آهنگ گوشی</item>
+		<item>فقط لرزشly</item>
+		<item>آهنگ گوشی و لرزش</item>
+	</string-array>
+	<string-array name="urgent_mode_values">
+		<item>۱</item>
+		<item>۲</item>
+		<item>۳</item>
+	</string-array>
+	
+	<string-array name="anonym_country_labels">
+		<item>آمریکا، کانادا (*۶۷)</item>
+		<item>کشورهای اروپایی (#۳۱#)</item>
+		<item>انگلستان، ایرلند (۱۴۱)</item>
+		<item>آلمان (*۳۱#)</item>
+		<item>دانمارک، سوئیس، آرژانتین (*۳۱*)</item>
+		<item>اسرائیل (*۴۳)</item>
+		<item>هنگ‌کنگ (۱۳۳)</item>
+		<item>استرالیا (۱۸۳۱)</item>
+		<item>نیوزلند (۰۱۹۷)</item>
+		<item>پیشوند سفارشی</item>
+	</string-array>
+	<string-array name="anonym_country_values">
+		<item>*67</item>
+		<item>#31#</item>
+		<item>141</item>
+		<item>*31#</item>
+		<item>*31*</item>
+		<item>*43</item>
+		<item>133</item>
+		<item>1831</item>
+		<item>0197</item>
+		<item></item>
+	</string-array>
+
+	<string-array name="vibrate_mode_labels">
+		<item>یکی کوتاه</item>
+		<item>یکی متوسط</item>
+		<item>یکی بلند</item>
+		<item>دوتا کوتاه</item>
+		<item>دوتا متوسط</item>
+		<item>دوتا بلند</item>
+		<item>سه‌تا کوتاه</item>
+		<item>سه‌تا متوسط</item>
+		<item>سه‌تا بلند</item>
+	</string-array>
+	<string-array name="vibrate_mode_values">
+		<item>۱۱</item>
+		<item>۱۲</item>
+		<item>۱۳</item>
+		<item>۲۱</item>
+		<item>۲۲</item>
+		<item>۲۳</item>
+		<item>۳۱</item>
+		<item>۳۲</item>
+		<item>۳۳</item>
+	</string-array>
+
+</resources>
